@@ -8,7 +8,7 @@ lead = '<b>Amethyst</b> is a small, simple, and safe systems language designed f
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = "GitHub v0.1.0"
-repo_license = "Open-source TODO: figure out licence"
+repo_license = "Open-source under Mozilla Public Licence"
 repo_url = "https://github.com/amethyst-lang/amethyst"
 
 # Menu items
