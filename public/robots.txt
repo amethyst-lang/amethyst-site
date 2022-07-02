@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amethyst-lang.org/sitemap.xml
